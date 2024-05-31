@@ -1,8 +1,14 @@
-const Hero = ()=>{
+import Hero from "./hero";
+import Clients from "./clients";
+import Section1 from "./section1";
+
+const Home = ()=>{
     return(
         <>
-            <p>The Hero Page</p>
+            <Hero/>
+            <Clients/>
+            <Section1/>
         </>
     )
 }
-export default Hero;
+export default Home;

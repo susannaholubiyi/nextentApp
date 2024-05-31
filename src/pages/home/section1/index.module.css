@@ -1,0 +1,13 @@
+.section1{
+    display: flex;
+    gap: 40px;
+    padding: 10%;
+    justify-content: space-evenly;
+}
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section2Members{
+
+}
