@@ -1,0 +1,13 @@
+.section3{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 3%;
+}
+.section3 p{
+    margin-bottom: 8%;
+}
+.secondHalf{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2%;
+}

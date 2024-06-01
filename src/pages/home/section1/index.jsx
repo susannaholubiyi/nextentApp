@@ -24,8 +24,8 @@ const Section1 = ()=>{
                     </button>
                 </div>
             </div>
-            <div className={style.section2}>
-                <div>
+            <div className={style.section2} style={{backgroundColor: "#e8e6e6"}} >
+                <div className={style.helping}>
                     <h1>Helping a local<span style={{ color: "#4caf4f", display: "block"}}>business reinvent itself</span> </h1>
                     <p>We reached here with our hard work and dedication</p>
                 </div>
